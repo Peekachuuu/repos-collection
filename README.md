@@ -1,5 +1,3 @@
-# React Mobile Developer Assessment
-
 ## Coding Challenge
 
 ### Task:
