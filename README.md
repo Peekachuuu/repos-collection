@@ -33,7 +33,7 @@ The page will display a list of repositories, showing:
 - The **number of stars**.
 - The **username and avatar** of the owner.
 
-### Screenshots:
+### Output Screenshots:
 ![Screenshot 1](src/assets/1.jpeg)
 ![Screenshot 2](src/assets/2.jpeg)
 ![Screenshot 3](src/assets/3.jpeg)
