@@ -13,7 +13,7 @@ export default function HomePage() {
     if (loading || !hasMore) return;
     setLoading(true);
     try {
-      const data = await getRepos(page, '2024-07-15', 'GITHUB_API_KEY');
+      const data = await getRepos(page, '2024-07-15');
       setRepos((prev) => [...prev, ...data.items]);
       setHasMore(data.items.length > 0);
     } catch (error) {
